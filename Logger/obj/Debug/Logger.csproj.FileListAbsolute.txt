@@ -1,0 +1,10 @@
+D:\20160813San'AN\内部测试\ExcelOperation\Logger\bin\Debug\Logger.dll
+D:\20160813San'AN\内部测试\ExcelOperation\Logger\bin\Debug\Logger.pdb
+D:\20160813San'AN\内部测试\ExcelOperation\Logger\obj\Debug\Logger.dll
+D:\20160813San'AN\内部测试\ExcelOperation\Logger\obj\Debug\Logger.pdb
+D:\20160813San'AN\内部测试\ExcelOperation\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\chang\Desktop\GenerateFileName\GenerateFileName\Logger\bin\Debug\Logger.dll
+C:\Users\chang\Desktop\GenerateFileName\GenerateFileName\Logger\bin\Debug\Logger.pdb
+C:\Users\chang\Desktop\GenerateFileName\GenerateFileName\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\chang\Desktop\GenerateFileName\GenerateFileName\Logger\obj\Debug\Logger.dll
+C:\Users\chang\Desktop\GenerateFileName\GenerateFileName\Logger\obj\Debug\Logger.pdb
